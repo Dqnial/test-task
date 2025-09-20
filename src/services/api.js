@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_HOST = "https://109.73.206.144:6969";
+const API_HOST = "http://109.73.206.144:6969";
 const API_KEY = "E6kUTYrYwZq2tN4QEtyzsbEBk3ie";
 
 const api = axios.create({
